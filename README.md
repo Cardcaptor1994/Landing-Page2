@@ -1,1 +1,1 @@
-# Landing-Page2
+This is an Landing Page Project given by Udacity
